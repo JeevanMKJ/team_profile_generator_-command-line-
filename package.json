@@ -1,0 +1,25 @@
+{
+  "name": "team_profile_generator_-command-line-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeevanMKJ/team_profile_generator_-command-line-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeevanMKJ/team_profile_generator_-command-line-/issues"
+  },
+  "homepage": "https://github.com/JeevanMKJ/team_profile_generator_-command-line-#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
