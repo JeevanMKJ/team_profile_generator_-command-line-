@@ -17,7 +17,7 @@ To install this application use the “git clone []” repository to the local m
 
 ## Usage
 
-To use this application: open the folder in “VS Code” and open the “index.js” file. Open the “integrated terminal” for “index.js” and input the “node index.js” in the command line. Answer the prompts in the command line. When all the prompts have been completed the HTML should either be generated or updated. [Walkthrough video of application](https://drive.google.com/drive/u/0/recent)
+To use this application: open the folder in “VS Code” and open the “index.js” file. Open the “integrated terminal” for “index.js” and input the “node index.js” in the command line. Answer the prompts in the command line. When all the prompts have been completed the HTML should either be generated or updated. [Walkthrough video of application](https://drive.google.com/file/d/1WVZkP16Utq9eSuyHAcBeVkulCpSkd2Sn/view?usp=sharing)
 
 ## License
 
